@@ -1,61 +1,105 @@
-# qa-learning-journal
-About This Repository
+# QA Learning Progress Tracker
 
-This repository tracks my journey from a complete beginner to a QA Engineer.
-Here I document:
+Welcome to my **QA Engineering Learning Journey** repository. This repo documents my daily and weekly progress, completed tasks, study roadmap, portfolio projects, and practice exercises.
 
-my study progress
+## 📌 Purpose of This Repository
+- Track progress in a structured, transparent way
+- Build discipline and consistency
+- Create a visible footprint of my QA learning journey
+- Store portfolio artifacts (test cases, bug reports, automated tests)
+- Show potential employers my growth, documentation style, and commitment
 
-daily / weekly tasks
+---
 
-practice projects
+## 📅 Month 1 Goals
+- Learn QA fundamentals
+- Write first test cases and bug reports
+- Practice on real websites
+- Understand SDLC/STLC and basic testing types
 
-test cases, bug reports
+### Weekly Breakdown
+**Week 1:** QA basics, terminology, SDLC/STLC
 
-API / UI testing practice
+**Week 2:** Test cases, bug reports, test design
 
-automation projects (later)
+**Week 3:** Tools (Jira alternatives), exploratory testing
 
-📅 Monthly Roadmap
+**Week 4:** Mini‑project + documentation
 
-Month 1: QA Foundations, Test Cases, Bug Reports, SDLC, STLC
+---
 
-Month 2: Git, Java Basics
+## 🧪 Practice Websites
+- https://www.saucedemo.com/
+- https://demoqa.com/
+- https://petstore.swagger.io/
 
-Month 3: API Testing (Postman), SQL
+---
 
-Month 4+: Selenium, frameworks, automation portfolio
+## 📁 Repository Structure
+```
+/01_QA_Fundamentals
+   notes.md
+   glossary.md
 
-📌 Progress Tracking
+/02_Test_Cases
+   saucedemo_test_cases.xlsx
+   demoqa_test_cases.xlsx
 
- Week 1 Completed
+/03_Bug_Reports
+   saucedemo_bugs.md
+   demoqa_bugs.md
 
- Week 2 Completed
+/04_Mini_Project_Month_1
+   test_plan.md
+   test_report.md
+   summary.md
 
- Week 3 Completed
+/progress
+   week1.md
+   week2.md
+   week3.md
+   week4.md
 
- Week 4 Completed
+README.md
+```
 
-🗂 Repository Structure
-/month_1_manual_testing/
-/test_cases/
-/bug_reports/
-/api_testing/
-/projects/
-/automation (later)
+---
 
-🧪 Practice Projects
+## 🧭 How I Track Progress
+Each week has a file inside `/progress` with:
+- What I studied
+- What I practiced
+- Problems encountered
+- Plans for next week
 
-Web Testing: Demo Testing Project #1
+Example:
+```
+# Week 1 Summary
+- Learned: QA basics, SDLC, STLC
+- Practiced: writing simple test cases
+- Sites: saucedemo.com
+- Next: bug reports
+```
 
-API Testing: Postman Collections
+---
 
-Bug Reports: Jira-style reports
+## 🧰 Tools I Use
+- Google Sheets / Excel — for test cases
+- GitHub — for version control & documentation
 
-🎓 Courses I'm Studying
+---
 
+## 🌱 Long‑Term Vision
+This repo will evolve with:
+- API testing
+- Postman collections
+- Java automation basics
+- Selenium UI tests
+- Final project portfolio
 
+---
 
-🚀 Goal
+**This repository marks the start of my QA journey.**
 
-To become employable as a QA Engineer within the next 6–12 months.
+More updates coming soon 🚀
+
